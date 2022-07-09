@@ -1,0 +1,24 @@
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+  margin-top: 60px;
+}
+
+counter-number {
+  font-size: 22px;
+  color: rgba(0, 0, 255, .3);
+}
+
+keep-alive{
+  width: 30px;
+  height: 30px;
+  background-color: gray;
+  display: inline-block;
+}
+
+keep-alive.on {
+  background-color: greenyellow;
+}
